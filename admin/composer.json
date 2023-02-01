@@ -1,0 +1,5 @@
+{
+    "require": {
+        "mpdf/mpdf": "v8.1"
+    }
+}
