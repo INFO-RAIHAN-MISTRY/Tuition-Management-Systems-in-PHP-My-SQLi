@@ -3,9 +3,9 @@ All php &amp; mysqli managements softwares are here.
 
 <--------------Introduction --------------->
 
-  1.Save this files into your XAMPP/HTTDOCS .
-  2.Then Create a database And import my .sql file there.
-  3.Then ready to Access the Web application.
+1.Save this files into your XAMPP/HTTDOCS .
+2.Then Create a database And import my .sql file there.
+3.Then ready to Access the Web application.
   
 <--------------Admin Panel------------------>
 
