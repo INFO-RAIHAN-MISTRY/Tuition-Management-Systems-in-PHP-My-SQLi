@@ -1,3 +1,14 @@
+<?php
+
+
+	include'../db_conn.php';
+
+	if (!isset($_SESSION['st_email'])) {
+		header('location:../login.php');
+	}
+
+?>
+
 <footer class="footer border-top bg-light">
 	  <!-- Copyright -->
 	  <div class="text-center p-3 text-dark">
